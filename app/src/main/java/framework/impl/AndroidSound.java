@@ -2,7 +2,8 @@ package framework.impl;
 
 import android.media.SoundPool;
 
-import com.koles.androidgame.framework.interfaces.Sound;
+
+import framework.interfaces.Sound;
 
 public class AndroidSound implements Sound {
 

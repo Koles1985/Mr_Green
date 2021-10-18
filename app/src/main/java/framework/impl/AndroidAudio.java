@@ -7,11 +7,12 @@ import android.media.AudioManager;
 import android.media.SoundPool;
 
 
-import com.koles.androidgame.framework.interfaces.Audio;
-import com.koles.androidgame.framework.interfaces.Music;
-import com.koles.androidgame.framework.interfaces.Sound;
 
 import java.io.IOException;
+
+import framework.interfaces.Audio;
+import framework.interfaces.Music;
+import framework.interfaces.Sound;
 
 public class AndroidAudio implements Audio {
     AssetManager assets;
