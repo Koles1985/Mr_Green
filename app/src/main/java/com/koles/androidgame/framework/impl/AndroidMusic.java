@@ -1,13 +1,11 @@
-package framework.impl;
+package com.koles.androidgame.framework.impl;
 
 import android.content.res.AssetFileDescriptor;
 import android.media.MediaPlayer;
 
-
+import com.koles.androidgame.framework.interfaces.Music;
 
 import java.io.IOException;
-
-import framework.interfaces.Music;
 
 public class AndroidMusic implements Music, MediaPlayer.OnCompletionListener {
 

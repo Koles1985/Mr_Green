@@ -1,4 +1,4 @@
-package framework.interfaces;
+package com.koles.androidgame.framework.interfaces;
 
 public abstract class Screen {
     protected final Game game;

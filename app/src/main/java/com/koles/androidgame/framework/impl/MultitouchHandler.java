@@ -1,4 +1,4 @@
-package framework.impl;
+package com.koles.androidgame.framework.impl;
 
 import android.view.MotionEvent;
 import android.view.View;

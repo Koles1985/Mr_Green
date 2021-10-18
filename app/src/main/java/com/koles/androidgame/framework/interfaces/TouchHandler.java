@@ -1,4 +1,4 @@
-package framework.interfaces;
+package com.koles.androidgame.framework.interfaces;
 
 import android.view.View.OnTouchListener;
 import com.koles.androidgame.framework.interfaces.Input.TouchEvent;

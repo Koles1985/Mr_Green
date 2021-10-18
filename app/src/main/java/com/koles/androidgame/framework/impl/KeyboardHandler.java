@@ -1,4 +1,4 @@
-package framework.impl;
+package com.koles.androidgame.framework.impl;
 
 import android.view.View;
 import android.view.View.OnKeyListener;

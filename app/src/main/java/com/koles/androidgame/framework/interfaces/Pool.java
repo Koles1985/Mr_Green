@@ -1,4 +1,4 @@
-package framework.interfaces;
+package com.koles.androidgame.framework.interfaces;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package framework.impl;
+package com.koles.androidgame.framework.impl;
 
 import android.content.Context;
 import android.os.Build.VERSION;

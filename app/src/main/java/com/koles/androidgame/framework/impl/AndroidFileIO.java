@@ -1,4 +1,4 @@
-package framework.impl;
+package com.koles.androidgame.framework.impl;
 
 import android.content.res.AssetManager;
 import android.os.Environment;

@@ -1,4 +1,4 @@
-package framework.interfaces;
+package com.koles.androidgame.framework.interfaces;
 
 import com.koles.androidgame.framework.interfaces.Graphics.PixmapFormat;
 
